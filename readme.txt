@@ -14,7 +14,28 @@ Setup Go Fiber Backend
      Example fiber code can be found at the official doc [See References]
      or you can check out the branches
 
-References:
+
+# References:
 1) Official doc - https://docs.gofiber.io/
 2) Fiber GitHub - https://github.com/gofiber/fiber
 3) Fiber Middleware GitHub - https://github.com/gofiber/awesome-fiber
+
+
+# General
+1) LiveReloading - Air [https://github.com/air-verse/air]
+
+2) Sample GoLang project
+   a) gofiber/boilerplate
+   b) thomasvvugt/fiber-boilerplate
+   c) Youtube - Building a REST API using Gorm and Fiber
+   d) embedmode/fiberseed
+
+
+# Cloud Library Support for GoLang
+1) Google Cloud Platform (Google Cloud, App Engine, Cloud Run, Cloud Functions)
+Google Cloud Client Libraries - https://github.com/googleapis/google-cloud-go
+
+2) Amazon Web Services
+AWS SDK Go v1 - https://github.com/aws/aws-sdk-go [MAINTENANCE MODE]
+AWS SDK Go v2 - https://aws.github.io/aws-sdk-go-v2/docs/
+    E.g. AWS S3 - https://aws.github.io/aws-sdk-go-v2/docs/making-requests/
