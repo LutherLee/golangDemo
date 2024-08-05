@@ -10,3 +10,6 @@ Type "go run main.go" in terminal/command prompt
 
 ** To run test **
 Type "go test" in terminal/command prompt
+
+NOTE:
+For sendEmail function, only the pseudocode is provided, to give an idea how email can be send without any library.
