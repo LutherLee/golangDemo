@@ -5,3 +5,6 @@ Please checkout the following branches:
               * Allow user to upload file (how multipart file is received)
               * JSON support (retrieve json from request body and send json response)
               * Async support with goroutine (using send email as example)
+              * Basic endpoint unit testing
+
+You can read the readme for each of the branches for more specific instruction
