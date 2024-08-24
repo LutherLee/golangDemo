@@ -7,7 +7,7 @@ Setup Go Fiber Backend
    a) Create go module using "go mod init <modulename>"
         - "go.mod" file will be created.
         This is where you manage your dependencies for your project
-   b) Install Go Fiber dependencies using "go get github.com/gofiber/fiber/v2" in
+   b) Install Go Fiber dependencies using "go get github.com/gofiber/fiber/v2"
         - You should see go.mod file populated with Fiber dependencies
 5) Create "main.go" file in the project directory
    - You can now write server code to the file.
